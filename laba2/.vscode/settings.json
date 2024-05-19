@@ -3,5 +3,6 @@
         "iostream": "cpp",
         "ostream": "cpp"
     },
-    "cmake.configureOnOpen": true
+    "cmake.configureOnOpen": true,
+    "cmake.sourceDirectory": "/media/sf_sis_prog/laba2/3.Processes/examples"
 }
