@@ -7,7 +7,7 @@ char message[64];
 
 int N =10;
 int flag = 0;
-int number;
+int number; 
 int main(int argc, char* argv[]) 
 {
     srand(time(0));

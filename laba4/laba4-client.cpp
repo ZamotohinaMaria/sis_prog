@@ -1,4 +1,5 @@
-// ./laba4/laba4-client 60002 127.0.0.1
+// cd /media/sf_sis_prog/laba4
+// ./laba4-client 60002 127.0.0.1
 #include "common.hpp"
 #include <random>
 
@@ -60,7 +61,7 @@ int main(int argc, char* argv[])
                             break;
                         }
                 }
-                std::cout << "Human say the value: " << x << std::endl;
+                std::cout << "Machine say the value: " << x << std::endl;
                 sprintf(message, "%d", x);
                 break;
             }
